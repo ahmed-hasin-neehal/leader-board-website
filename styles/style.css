@@ -1,0 +1,48 @@
+body{
+    background-color: #F3F1FF;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar img{
+    width: 40px;
+}
+.navbar-brand h3{
+    display: inline;
+    color: white;
+    font-weight: bold;
+}
+.player img{
+    width: 56px;
+}
+.navbar{
+    background-color: #562EFF;
+}
+.purple-font{
+    color: #562EFF;
+}
+.blog img{
+    max-width: 177px;
+    width: 100%;
+    height: auto;
+}
+.title{
+    font-weight: 900;
+}
+.course-instructor{
+    color: #ED6B4F;
+}
+.timer{
+    background-color: #FFE4E8;
+    border-radius: 14px;
+    color: #FF4A60;
+}
+.timer img{
+    max-width: 20px;
+    width: 100%;
+    height: auto;
+}
+.fa-star{
+    color: #AEAEAE;
+}
+.checked {
+    color: orange;
+}
